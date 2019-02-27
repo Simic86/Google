@@ -1,0 +1,77 @@
+
+head, body
+{
+    display: block;
+    margin-left: 30px;
+    background-color: lightgrey;
+}
+
+h1
+{
+    margin: 0;
+    font-size: 60px;
+    font-style: italic;
+    text-indent: 150px;
+    color: floralwhite;
+    background-color: royalblue;
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
+
+span
+{
+    font-size: 20px;
+    vertical-align: top;
+}
+
+#searchbar
+{
+    background-color: darkgrey;
+    padding: 15px;
+}
+
+#shape
+{
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    padding: 15px;
+    border: floralwhite solid 3px;
+    border-radius:  15px 50px 30px;
+    background-color: lightgrey;
+}
+
+#search
+{
+    text-align: center;
+    height: 15px;
+    width: 500px;
+}
+
+img
+{
+    height: 250px;
+    width: 300px;
+}
+
+#name
+{
+    vertical-align: bottom;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: floralwhite;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#add    
+{
+    width: 120px;
+    height: 35px;
+}
+
+li
+{
+    color: slategray;
+    font: bolder;
+} 
+
